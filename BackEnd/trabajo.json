@@ -1,0 +1,99 @@
+{
+  "Users_Admin": [
+    {
+      "id": "1d11",
+      "Usuario": "Administrador_24",
+      "Contrasena": "Camion24"
+    }
+  ],
+  "Users_Trans": [
+    {
+      "Nombre": "valery",
+      "Telefono": "3432423",
+      "Correo": "dairon_chapid@soy.sena.edu.co",
+      "Usuario": "TransportaSeguro1",
+      "Contrasena": "Pass1",
+      "id": "dd9d"
+    }
+  ],
+  "Users_DCamion": [
+    {
+      "Nombre": "Carlos",
+      "Telefono": "3123456789",
+      "Correo": "carlos@example.com",
+      "Usuario": "Propietariocm11",
+      "Contraseña": "Contraseña1",
+      "id": "8846"
+    }
+  ],
+  "Cliente": [
+    {
+      "id": "d019",
+      "Nombre": "Armando Zambrano",
+      "Teléfono": "3138755960",
+      "Correo": "arm@arma",
+      "NumeroDocumento": "52364686",
+      "Usuario": "Armando Zambrano",
+      "Contraseña": "52364686"
+    },
+    {
+      "id": "82da",
+      "Nombre": "Valda",
+      "Teléfono": "346789990",
+      "Correo": "valsa@valsa",
+      "NumeroDocumento": "1014667051",
+      "Usuario": "Valda",
+      "Contraseña": "1014667051"
+    },
+    {
+      "id": "7ef6",
+      "Matricula": "ABC123",
+      "carga": "700",
+      "destino": "hggf"
+    },
+    {
+      "id": "cf19",
+      "Nombre": "hvgfcdf",
+      "Correo": "daironchap@gmail.com",
+      "NumeroDocumento": "12345678098765",
+      "Usuario": "hvgfcdf",
+      "Contrasena": "12345678098765"
+    }
+  ],
+  "Solicitudes": [
+    {
+      "id": "b572",
+      "Nombre": "gyttr",
+      "NumeroDocumento": "0987664",
+      "Teléfono": "12345678",
+      "Correo": "valerizambrano0@gmail.com"
+    }
+  ],
+  "ListaCam": [
+    {
+      "id": "9f44",
+      "Matricula": "LMN987",
+      "Capacidad": "50000",
+      "Gasolina": "0.60",
+      "CargaActual": 3000,
+      "Estado": "Ocupado"
+    },
+    {
+      "id": "d8b6",
+      "Matricula": "ABC123",
+      "Capacidad": "50000",
+      "Gasolina": "0.60",
+      "CargaActual": 700,
+      "Estado": "Ocupado"
+    }
+  ],
+  "Reportes": [
+    {
+      "id": "e3af",
+      "camionSeleccionado": "LMN987",
+      "estadoCarga": "incompleta -",
+      "estadoCamion": "Falta aceite, cambio de ruedas",
+      "fechaReporte": "2024-09-27"
+    }
+  ]
+}
